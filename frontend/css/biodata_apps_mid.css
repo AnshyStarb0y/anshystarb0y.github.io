@@ -700,11 +700,11 @@ body {
     filter: brightness(80%);
 }
 
-.hobby-bar.coding {width: 70%;}
-.hobby-bar.music {width: 50%;}
-.hobby-bar.gadget {width: 30%;}
-.hobby-bar.riding {width: 10%;}
-.hobby-bar.game {width: 1%;}
+.hobby-bar.coding {width: 25%;}
+.hobby-bar.music {width: 30%;}
+.hobby-bar.gadget {width: 60%;}
+.hobby-bar.riding {width: 15%;}
+.hobby-bar.game {width: 85%;}
 
 /* Section 4 */
 
